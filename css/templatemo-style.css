@@ -518,14 +518,14 @@ header .social-icon li a
 	}
 /* end social icon */
 
-@media only screen and (max-width: 1199px) and (min-width: 992px) {
+@media  screen and (max-width: 1199px) and (min-width: 400px) {
 	#portfolio .portfolio-thumb .portfolio-overlay {
 		padding: 0px 8px;
 	}
 }
 
 /* start 980 media quires */
-@media only screen and ( max-width: 980px ) {
+@media  screen and ( max-width: 980px ) {
 	#team .team-wrapper
 		{
 			margin-top: 40px;
@@ -550,7 +550,7 @@ header .social-icon li a
 /* end 360 media quires */
 
 /* start 768 media quires */
-@media only screen and ( max-width: 767px ) {
+@media  screen and ( max-width: 767px ) {
 	#home
 		{
 			min-height: 300px;
@@ -589,7 +589,7 @@ header .social-icon li a
 /* end 768 media quires */
 
 /* start 360 media quires */
-@media only screen and ( max-width: 360px ) {
+@media  screen and ( max-width: 360px ) {
 	header .social-icon
 		{
 			text-align: left;
